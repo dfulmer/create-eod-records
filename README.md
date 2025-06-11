@@ -4,6 +4,7 @@
 This software creates MARC records.
 
 ## Setup
+Use the Dev Container.
 
 ## Usage
 ```python runner.py```
