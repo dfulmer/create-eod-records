@@ -1,3 +1,4 @@
 pymarc
 pytest
 pytest-cov
+ruff
